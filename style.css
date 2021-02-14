@@ -1,0 +1,56 @@
+h1 {
+  color: #9f5f80;
+}
+
+#welcome {
+  font-style: italic;
+  font-weight: bold;
+  font-size: medium;
+  text-align: center;
+  color: #34626c;
+  background-color: lightgray;
+}
+
+#about {
+  font-style: italic;
+  font-weight: bold;
+  font-size: medium;
+  text-align: center;
+  color: #34626c;
+  background-color: lightgray;
+}
+
+.fixed-attachment {
+  background-attachment: fixed;
+}
+
+.fill-screen {
+  padding-top: 100px;
+  background-size: cover;
+  background-position: center;
+}
+
+.nav-item a:hover {
+  background-color: #6f757e;
+}
+.subject {
+  font-style: italic;
+  font-weight: bold;
+  font-size: medium;
+  text-align: center;
+  color: black;
+  background-color: lightgray;
+}
+
+body {
+  background-color: lightgray;
+}
+
+#fixed {
+  position: fixed;
+}
+
+#sp21 {
+  background-color: darkgray;
+  text-align: left;
+}
